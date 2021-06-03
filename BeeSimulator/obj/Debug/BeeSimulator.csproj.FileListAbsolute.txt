@@ -1,0 +1,13 @@
+C:\Users\funn1\source\repos\BeeSimulator\BeeSimulator\bin\Debug\BeeSimulator.exe.config
+C:\Users\funn1\source\repos\BeeSimulator\BeeSimulator\bin\Debug\BeeSimulator.exe
+C:\Users\funn1\source\repos\BeeSimulator\BeeSimulator\bin\Debug\BeeSimulator.pdb
+C:\Users\funn1\source\repos\BeeSimulator\BeeSimulator\obj\Debug\BeeSimulator.csprojAssemblyReference.cache
+C:\Users\funn1\source\repos\BeeSimulator\BeeSimulator\obj\Debug\BeeSimulator.Properties.Resources.resources
+C:\Users\funn1\source\repos\BeeSimulator\BeeSimulator\obj\Debug\BeeSimulator.csproj.GenerateResource.cache
+C:\Users\funn1\source\repos\BeeSimulator\BeeSimulator\obj\Debug\BeeSimulator.csproj.CoreCompileInputs.cache
+C:\Users\funn1\source\repos\BeeSimulator\BeeSimulator\obj\Debug\BeeSimulator.exe
+C:\Users\funn1\source\repos\BeeSimulator\BeeSimulator\obj\Debug\BeeSimulator.pdb
+C:\Users\funn1\source\repos\BeeSimulator\BeeSimulator\obj\Debug\BeeSimulator.Form1.resources
+C:\Users\funn1\source\repos\BeeSimulator\BeeSimulator\obj\Debug\BeeSimulator.FieldForm.resources
+C:\Users\funn1\source\repos\BeeSimulator\BeeSimulator\obj\Debug\BeeSimulator.HiveForm.resources
+C:\Users\funn1\source\repos\BeeSimulator\BeeSimulator\obj\Debug\BeeSimulator.BeeControl.resources
